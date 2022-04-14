@@ -30,7 +30,6 @@ report.html
 /es
 elasticsearch-*
 config/base.yaml
-/.vscode/
 /coverage
 yarn.lock
 package-lock.json
@@ -69,3 +68,6 @@ __image_snapshots__/
 /imageDiffSnapshots
 
 .devcontainer*
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
